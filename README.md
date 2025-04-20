@@ -55,7 +55,7 @@ Este é um projeto simples de aplicação web que permite ao usuário sortear um
 4. Um número aleatório entre os dois valores será exibido (função implementada no `scripts.js`).
 
 
-<img src="https://github.com/Gleicekeli12/conversor-moedas/blob/main/assets/conversor-moeda.PNG?raw=true" alt="conversor-avancado" width="450"/>
+<img src="https://github.com/Gleicekeli12/sorteio/blob/main/assets/sorteio.PNG?raw=true" alt="sorteio" width="450"/>
 
 
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
